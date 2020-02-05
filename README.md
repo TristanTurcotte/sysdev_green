@@ -1,20 +1,21 @@
-# Team Files
+# Systems Development - Green Team
+Working files will be worked on from google drive. Any backups and finished versions of the files will be versionned and stored on the GitHub repo in the 'res' folder.
 All templates, meeting agendas and notes, and reports can be accessed from here.
 
 ## Meeting Agendas/Notes
 All meeting word documents will be linked here.
 
-1. [Initial Meeting](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/meeting/001%20Initial%20Meeting.docx), Jan 24, 2020
-2. [Client Search Follow-Up Meeting](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/meeting/002%20Client%20Search.docx), Jan 28, 2020
-3. [Client Update, Discuss Potential Clients](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/meeting/003%20Client%20Updates.docx), Jan 31, 2020
-4. [Client Post-Meeting](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/meeting/004_Client_Meeting_Summary.docx) _was not conducted_, Feb 4, 2020
+1. [Initial Meeting](https://docs.google.com/document/d/1YftXb_R4hjw7c0SjjdDTV4unvvWfEDlulj39-UMDnxE/edit?usp=sharing), Jan 24, 2020
+2. [Client Search Follow-Up Meeting](https://docs.google.com/document/d/1S55eF6tvIf-VpQbW920L4R6p1tqHiogS-aFhVACLAKY/edit?usp=sharing), Jan 28, 2020
+3. [Client Update, Discuss Potential Clients](https://docs.google.com/document/d/1HLljVhl1lf8JKaRJAsbRH7C09SP1Nf_BPaz5vEIJVsA/edit?usp=sharing), Jan 31, 2020
+4. [First Client Meeting Summary](https://docs.google.com/document/d/1LSkPRZteTNX33dWX8QVS-XkE-zVmtRXnPNGdVQE-Jwc/edit?usp=sharing) _was not conducted_, Feb 3, 2020
 
 ## Files
 Files to be shared and worked on as a group throughout the project.
 
-* [Project plan - 2020-01-31.mpp](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/Project%20Plan%20-%202020-01-31.mpp)
+* [Project plan - 2020-01-31.mpp](https://drive.google.com/open?id=1urjf8DOsxLCV9lgybYgzLgLyIQ5q3slM)
    * Time estimates in the plan are extremely rough and no resources have been assigned to tasks.
-* [Project plan - Task Descriptions Document](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/Project%20Plan%20-%20Task%20Descriptions.pdf)
+* [Project plan - Task Descriptions Document](https://docs.google.com/document/d/1O3CSe-8mpXy4JbQT-8EgclI9LaL6j14J1jH89OjGNak/edit?usp=sharing)
    * This file is currently a WIP, with only the 1st deliverable being completely described.
 
 ## Reports
