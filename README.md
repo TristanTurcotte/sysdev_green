@@ -4,17 +4,17 @@ All templates, meeting agendas and notes, and reports can be accessed from here.
 ## Meeting Agendas/Notes
 All meeting word documents will be linked here.
 
-1. [Initial Meeting](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/meeting/001_Initial_Meeting.docx), Jan 24, 2020
-2. [Client Search Follow-Up Meeting](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/meeting/002_Client_Search.docx), Jan 28, 2020
-3. [Client Update, Discuss Potential Clients](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/meeting/003_Client_Updates.docx), Jan 31, 2020
-4. [First Client Meeting Summary](), Feb 4, 2020
+1. [Initial Meeting](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/meeting/001%20Initial%20Meeting.docx), Jan 24, 2020
+2. [Client Search Follow-Up Meeting](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/meeting/002%20Client%20Search.docx), Jan 28, 2020
+3. [Client Update, Discuss Potential Clients](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/meeting/003%20Client%20Updates.docx), Jan 31, 2020
+4. [Client Post-Meeting](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/meeting/004_Client_Meeting_Summary.docx) _was not conducted_, Feb 4, 2020
 
 ## Files
 Files to be shared and worked on as a group throughout the project.
 
-* [Project plan - 2020-01-31.mpp](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/Project_Plan_-_2020-01-31.mpp)
+* [Project plan - 2020-01-31.mpp](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/Project%20Plan%20-%202020-01-31.mpp)
    * Time estimates in the plan are extremely rough and no resources have been assigned to tasks.
-* [Project plan - Task Descriptions Document](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/Project_Plan_-_Task_Descriptions.pdf)
+* [Project plan - Task Descriptions Document](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/Project%20Plan%20-%20Task%20Descriptions.pdf)
    * This file is currently a WIP, with only the 1st deliverable being completely described.
 
 ## Reports
@@ -22,8 +22,8 @@ All written reports will be linked here for every deliverable.
 
 |No.|Deliverable Name|Due Date|Lead|Link
 |---|----------------|--------|----|----|
-|1  |Project Plan|Feb 5, 2020|Tristan|[Link](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/reports/Deliverable_#1.pdf)
-|2  |Client and business domain summaries, questionnaire|Feb 12, 2020|Haymond|[Link]()
+|1  |Project Plan|Feb 5, 2020|Tristan|[Link](https://docs.google.com/document/d/1ogJE0sHZpOelf_Ret5zgoCxpRW_VES6G-PVkjSTrA0Y/edit?usp=sharing)
+|2  |Client and business domain summaries, questionnaire|Feb 12, 2020|Haymond|[Link](https://docs.google.com/document/d/1AmWQ-jKaMZc8hWUDbRlRskhmSBHBG9vEblMLTHM_qds/edit?usp=sharing)
 |3  |Use cases and UML Diagrams|Feb 25, 2020|Xiang|[Link]()
 |4  |User stories|Mar 25, 2020|James|[Link]()
 |5  |Prototype UI and client comments|Apr 7, 2020|Synthia|[Link]()
