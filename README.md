@@ -8,7 +8,7 @@ All meeting word documents will be linked here.
 1. [Initial Meeting](https://docs.google.com/document/d/1YftXb_R4hjw7c0SjjdDTV4unvvWfEDlulj39-UMDnxE/edit?usp=sharing), Jan 24, 2020
 2. [Client Search Follow-Up Meeting](https://docs.google.com/document/d/1S55eF6tvIf-VpQbW920L4R6p1tqHiogS-aFhVACLAKY/edit?usp=sharing), Jan 28, 2020
 3. [Client Update, Discuss Potential Clients](https://docs.google.com/document/d/1HLljVhl1lf8JKaRJAsbRH7C09SP1Nf_BPaz5vEIJVsA/edit?usp=sharing), Jan 31, 2020
-4. [First Client Meeting Summary](https://docs.google.com/document/d/1LSkPRZteTNX33dWX8QVS-XkE-zVmtRXnPNGdVQE-Jwc/edit?usp=sharing) _was not conducted_, Feb 3, 2020
+4. [First Client Meeting Summary](https://docs.google.com/document/d/1LSkPRZteTNX33dWX8QVS-XkE-zVmtRXnPNGdVQE-Jwc/edit?usp=sharing), Feb 4, 2020
 
 ## Files
 Files to be shared and worked on as a group throughout the project.
