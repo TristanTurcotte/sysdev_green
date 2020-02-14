@@ -13,10 +13,10 @@ All meeting word documents will be linked here.
 ## Files
 Files to be shared and worked on as a group throughout the project.
 
-* [Project plan - 2020-01-31.mpp](https://drive.google.com/open?id=1urjf8DOsxLCV9lgybYgzLgLyIQ5q3slM)
-   * Time estimates in the plan are extremely rough and no resources have been assigned to tasks.
-* [Project plan - Task Descriptions Document](https://docs.google.com/document/d/1O3CSe-8mpXy4JbQT-8EgclI9LaL6j14J1jH89OjGNak/edit?usp=sharing)
-   * This file is currently a WIP, with only the 1st deliverable being completely described.
+|File Name|Description|Deliverable|Link|
+|---|---|---|---|
+|Client Questions|Inquiry about current information system.|3|[Link](https://docs.google.com/document/d/1Z-p1s7wCWsoohI_RxubxOX4l3G4Rd_cPQBJapHTNTc8/edit?usp=sharing)|
+|Project plan|Project plan as forseen in January.|1|[Link]((https://drive.google.com/open?id=1urjf8DOsxLCV9lgybYgzLgLyIQ5q3slM))|
 
 ## Reports
 All written reports will be linked here for every deliverable.
