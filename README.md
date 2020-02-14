@@ -16,7 +16,7 @@ Files to be shared and worked on as a group throughout the project.
 |File Name|Description|Deliverable|Link|
 |---|---|---|---|
 |Client Questions|Inquiry about current information system.|3|[Link](https://docs.google.com/document/d/1Z-p1s7wCWsoohI_RxubxOX4l3G4Rd_cPQBJapHTNTc8/edit?usp=sharing)|
-|Project plan|Project plan as forseen in January.|1|[Link]((https://drive.google.com/open?id=1urjf8DOsxLCV9lgybYgzLgLyIQ5q3slM))|
+|Project plan|Project plan as forseen in January.|1|[Link](https://drive.google.com/open?id=1urjf8DOsxLCV9lgybYgzLgLyIQ5q3slM)|
 
 ## Reports
 All written reports will be linked here for every deliverable.
