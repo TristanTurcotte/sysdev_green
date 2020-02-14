@@ -9,6 +9,7 @@ All meeting word documents will be linked here.
 2. [Client Search Follow-Up Meeting](https://docs.google.com/document/d/1S55eF6tvIf-VpQbW920L4R6p1tqHiogS-aFhVACLAKY/edit?usp=sharing), Jan 28, 2020
 3. [Client Update, Discuss Potential Clients](https://docs.google.com/document/d/1HLljVhl1lf8JKaRJAsbRH7C09SP1Nf_BPaz5vEIJVsA/edit?usp=sharing), Jan 31, 2020
 4. [First Client Meeting Summary](https://docs.google.com/document/d/1LSkPRZteTNX33dWX8QVS-XkE-zVmtRXnPNGdVQE-Jwc/edit?usp=sharing), Feb 4, 2020
+5. [Deliverable 3 Mise a Jour](https://docs.google.com/document/d/1Oxoi0Bq9zPiAk0whcE37lbck0pzQbZ5snj3Q7Uwm6C0/edit?usp=sharing), Feb 14, 2020
 
 ## Files
 Files to be shared and worked on as a group throughout the project.
