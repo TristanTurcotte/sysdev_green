@@ -12,12 +12,15 @@ All meeting word documents will be linked here.
 5. [Deliverable 2 Mise a Jour](https://docs.google.com/document/d/118QKXZrqXvUVlUwKR5uJQXGYbWMjF8m4SDpbL6pYqcQ/edit?usp=sharing), Feb 11, 2020
 6. [Deliverable 3 Mise a Jour](https://docs.google.com/document/d/1Oxoi0Bq9zPiAk0whcE37lbck0pzQbZ5snj3Q7Uwm6C0/edit?usp=sharing), Feb 14, 2020
 7. [Use Case Brainstorm](https://docs.google.com/document/d/1quV5nv0vTrDviMnrqcZ329Mg5xqeSGlXBgI_O5mqTwA/edit?usp=sharing), Feb 18, 2020
+8. [Morning Meeting](https://docs.google.com/document/d/1bEHamNKoEEUGWLZZPs5EBo75qCr3w-qQb-lriwn_SAQ/edit?usp=sharing), Feb 19, 2020
+9. [Afternoon Teamwork](https://docs.google.com/document/d/1WupkdHqmthz9rKX5BOuoz4LXS9YlCaWNsfcWUTSNjkc/edit?usp=sharing), Feb 19, 2020
 
 ## Files
 Files to be shared and worked on as a group throughout the project.
 
 |File Name|Description|Deliverable|Link|
 |---|---|---|---|
+|Compiled Teamlog #1|Compilation of team meeting agendas from before 2020-02-18|1-3|[Link](res/teamlog/Compiled_Teamlog_#1.docx)|
 |Use Case Diagram Draft Revision|Current use case diagram draft mapping out the client's information system.|3|[Link](res/003_deliverable/use_case_diagram/draft/Visio-UseCaseDiagram_Revision.pdf)|
 |Client Questions|Inquiry about current information system.|3|[Link](https://docs.google.com/document/d/1Z-p1s7wCWsoohI_RxubxOX4l3G4Rd_cPQBJapHTNTc8/edit?usp=sharing)|
 |Project plan|Project plan as forseen in January.|1|[Link](https://drive.google.com/open?id=1urjf8DOsxLCV9lgybYgzLgLyIQ5q3slM)|
