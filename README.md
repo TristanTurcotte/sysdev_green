@@ -18,6 +18,7 @@ Files to be shared and worked on as a group throughout the project.
 
 |File Name|Description|Deliverable|Link|
 |---|---|---|---|
+|Use Case Diagram Draft Revision|Current use case diagram draft mapping out the client's information system.|3|[Link](res/003_deliverable/use_case_diagram/draft/Visio-UseCaseDiagram_Revision.pdf)|
 |Client Questions|Inquiry about current information system.|3|[Link](https://docs.google.com/document/d/1Z-p1s7wCWsoohI_RxubxOX4l3G4Rd_cPQBJapHTNTc8/edit?usp=sharing)|
 |Project plan|Project plan as forseen in January.|1|[Link](https://drive.google.com/open?id=1urjf8DOsxLCV9lgybYgzLgLyIQ5q3slM)|
 
