@@ -20,6 +20,7 @@ Files to be shared and worked on as a group throughout the project.
 
 |File Name|Description|Deliverable|Link|
 |---|---|---|---|
+|Use Cases|4 use cases.|3|[Link](https://docs.google.com/spreadsheets/d/1IVg-jtEmcQZ5mW2hDC_hR8hCp6R8byiRbGHmiDYV7wk/edit?usp=sharing)|
 |Compiled Teamlog #1|Compilation of team meeting agendas from before 2020-02-18|1-3|[Link](res/teamlog/Compiled_Teamlog_#1.docx)|
 |Use Case Diagram Draft Revision|Current use case diagram draft mapping out the client's information system.|3|[Link](res/003_deliverable/use_case_diagram/draft/Visio-UseCaseDiagram_Revision.pdf)|
 |Client Questions|Inquiry about current information system.|3|[Link](https://docs.google.com/document/d/1Z-p1s7wCWsoohI_RxubxOX4l3G4Rd_cPQBJapHTNTc8/edit?usp=sharing)|
