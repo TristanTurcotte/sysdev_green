@@ -14,12 +14,14 @@ All meeting word documents will be linked here.
 7. [Use Case Brainstorm](https://docs.google.com/document/d/1quV5nv0vTrDviMnrqcZ329Mg5xqeSGlXBgI_O5mqTwA/edit?usp=sharing), Feb 18, 2020
 8. [Morning Meeting](https://docs.google.com/document/d/1bEHamNKoEEUGWLZZPs5EBo75qCr3w-qQb-lriwn_SAQ/edit?usp=sharing), Feb 19, 2020
 9. [Afternoon Teamwork](https://docs.google.com/document/d/1WupkdHqmthz9rKX5BOuoz4LXS9YlCaWNsfcWUTSNjkc/edit?usp=sharing), Feb 19, 2020
+10. [Day After Break](https://docs.google.com/document/d/1EjTWsM8a14LASrJUNjC8Wm_kVu1tzFpBkWMpPRZ_8hg/edit?usp=sharing), Mar 13, 2020
 
 ## Files
 Files to be shared and worked on as a group throughout the project.
 
 |File Name|Description|Deliverable|Link|
 |---|---|---|---|
+|User Stories|Collection of user stories for the new info system|4|[Link](https://docs.google.com/presentation/d/1pg_50P8ZhyUtotUXvskVlEFuzEx_c8MjnoNaZC6-2iM/edit?usp=sharing)|
 |Activity & Sequence diagrams|Order Items & Adjust Inventory|3|[Link](https://www.draw.io/#G18WwJpEHm-Q2O-JqyQjgQ49hVgR4Ro0WM)|
 |Use Cases|4 use cases.|3|[Link](https://docs.google.com/spreadsheets/d/1IVg-jtEmcQZ5mW2hDC_hR8hCp6R8byiRbGHmiDYV7wk/edit?usp=sharing)|
 |Compiled Teamlog #1|Compilation of team meeting agendas from before 2020-02-18|1-3|[Link](res/teamlog/Compiled_Teamlog_#1.docx)|
