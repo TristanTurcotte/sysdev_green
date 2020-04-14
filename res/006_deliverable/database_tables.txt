@@ -1,0 +1,24 @@
+USER table
+	user id (primary key)
+	name
+	access level (delete/create user access, delete/create wine access, add/remove inventory access (waiter has this))
+PASSWORD table
+	user (primary key)
+	password hash
+WINE (listing) table
+	wine id (primary key)
+	name (name of the wine)
+	origin (country of origin)
+	price (price per bottle)
+	year (year manufactured)
+	volume (how much volume is in one bottle)
+	image (picture of the wine bottle)
+	type (white, sparkling, red, etc)
+INVENTORY table
+	wine id (primary key)
+	quantity (how many are in stock)
+INVENTORY CHANGE table
+	change id (primary key)
+	user id
+	wine id
+	amount adjusted (+ or - number)
