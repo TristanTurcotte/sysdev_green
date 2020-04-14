@@ -39,7 +39,7 @@ All written reports will be linked here for every deliverable.
 |3  |Use cases and UML Diagrams|Feb 25, 2020|Xiang|[Link](https://docs.google.com/document/d/1URtJRdiSpSGxfxZHFrP4LnFoT0GQMwN_XVXvs45tjOU/edit?usp=sharing)
 |4  |User stories|Mar 25, 2020|James|[Link](https://docs.google.com/document/d/1uhg49mae0MIqcwnu1oFhfpMxpX7BQeJjxEEq6HIrHJQ/edit?usp=sharing)
 |5  |Prototype UI and client comments|Apr 7, 2020|Synthia|[Link](https://docs.google.com/document/d/1GSx_v1RyALdOIe6Vq2FtcdTWCDUzN_bNd5ZhCpanXkM/edit)
-|6  |Database design|Apr 21, 2020|Haymond|[Link]()
+|6  |Database design|Apr 21, 2020|Haymond|[Link](https://docs.google.com/document/d/1YBXIsb5xHJmiZlnjDpgzhUUshVm6hfy0kqobmUkcxYA/edit?usp=sharing)
 |7  |Implementation and client comments|May 8, 2020|Tristan|[Link]()
 
 ## Templates
