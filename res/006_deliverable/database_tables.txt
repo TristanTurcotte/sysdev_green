@@ -22,3 +22,4 @@ INVENTORY CHANGE table
 	user id
 	wine id
 	amount adjusted (+ or - number)
+	time
