@@ -21,6 +21,8 @@ Files to be shared and worked on as a group throughout the project.
 
 |File Name|Description|Deliverable|Link|
 |---|---|---|---|
+|Block Diagram|Block diagram showing database interactions that users can perform|6|[Link](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/006_deliverable/block_diagram.PNG)|
+|Database Tables|Text file containing what tables will be in the database|6|[Link](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/006_deliverable/database_tables.txt)|
 |User Stories|Collection of user stories for the new info system|4|[Link](https://docs.google.com/presentation/d/1pg_50P8ZhyUtotUXvskVlEFuzEx_c8MjnoNaZC6-2iM/edit?usp=sharing)|
 |Activity & Sequence diagrams|Order Items & Adjust Inventory|3|[Link](https://www.draw.io/#G18WwJpEHm-Q2O-JqyQjgQ49hVgR4Ro0WM)|
 |Use Cases|4 use cases.|3|[Link](https://docs.google.com/spreadsheets/d/1IVg-jtEmcQZ5mW2hDC_hR8hCp6R8byiRbGHmiDYV7wk/edit?usp=sharing)|
