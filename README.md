@@ -21,6 +21,7 @@ Files to be shared and worked on as a group throughout the project.
 
 |File Name|Description|Deliverable|Link|
 |---|---|---|---|
+|Application Repo|The repository used for the application's implementation code.|7|[Link](https://github.com/TristanTurcotte/wine-inventory-app)|
 |Block Diagram|Block diagram showing database interactions that users can perform|6|[Link](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/006_deliverable/block_diagram.PNG)|
 |Database Tables|Text file containing what tables will be in the database|6|[Link](https://github.com/TristanTurcotte/sysdev_green/blob/master/res/006_deliverable/database_tables.txt)|
 |User Stories|Collection of user stories for the new info system|4|[Link](https://docs.google.com/presentation/d/1pg_50P8ZhyUtotUXvskVlEFuzEx_c8MjnoNaZC6-2iM/edit?usp=sharing)|
@@ -42,7 +43,7 @@ All written reports will be linked here for every deliverable.
 |4  |User stories|Mar 25, 2020|James|[Link](https://docs.google.com/document/d/1uhg49mae0MIqcwnu1oFhfpMxpX7BQeJjxEEq6HIrHJQ/edit?usp=sharing)
 |5  |Prototype UI and client comments|Apr 7, 2020|Synthia|[Link](https://docs.google.com/document/d/1GSx_v1RyALdOIe6Vq2FtcdTWCDUzN_bNd5ZhCpanXkM/edit)
 |6  |Database design|Apr 21, 2020|Haymond|[Link](https://docs.google.com/document/d/1YBXIsb5xHJmiZlnjDpgzhUUshVm6hfy0kqobmUkcxYA/edit?usp=sharing)
-|7  |Implementation and client comments|May 8, 2020|Tristan|[Link]()
+|7  |Implementation and client comments|April 29, 2020|Tristan|[Link](https://docs.google.com/document/d/14NIfuJWzYz229IbudBZ3BhurvdUm_pDhQg_wHxcc5Oc/edit?usp=sharing)
 
 ## Templates
 All templates used for meetings/reports will be here.
